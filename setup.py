@@ -17,8 +17,8 @@ setup(
     long_description=long,
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    install_requires=[],  # add any additional packages that
-    # needs to be installed along with your package. Eg: 'caer'
+    install_requires=[],  
+    
 
     keywords=['python', 'first package'],
     classifiers=[
